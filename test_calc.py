@@ -1,4 +1,3 @@
-# test_calc.py
 from calc import add, subtract
 
 def test_add():
